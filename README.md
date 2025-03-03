@@ -16,7 +16,7 @@ A web application that allows users to perform CRUD operations on recipes. Built
 1. Ensure Python is installed on your system.
 2. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/Food-blog.git
+    https://github.com/JhonGutang/Food-Recipe.git
     ```
 3. Navigate to the backend directory:
     ```sh
