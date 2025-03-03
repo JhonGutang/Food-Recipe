@@ -24,7 +24,7 @@ A web application that allows users to perform CRUD operations on recipes. Built
     ```
 4. Install Django and dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install django
     ```
 5. Run the development server:
     ```sh
